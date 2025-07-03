@@ -2609,3 +2609,5 @@ zmaticoo.com,5135302,RESELLER
 zoomd.com,88478941,RESELLER
 vungle.com, 64a42f719cd8d6001106d1cb, DIRECT, 5678
 vungle.com, 64a42f719cd8d6001106d1cb, RESELLER, 6789
+pangleglobal.com, 5026670, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
